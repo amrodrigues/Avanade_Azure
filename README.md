@@ -6,11 +6,15 @@
 - **Sentimento identificado:**  
   `Positivo (com alta confiança)`
 
----
+ 
+ - **Gravei um áudio curto com a frase:**
+"A viagem que fizemos a Paris foi maravilhosa, eu amei aquela cidade. Que arquitetura! E só mesmo? A culinária! A culinária de Paris é maravilhosa. Quero voltar mais vezes a Paris."
 
-## 🖼️ Capturas de Tela
+Fiz upload no Azure Speech Studio para transcrever o áudio em texto.
 
-As imagens do processo podem ser encontradas na pasta `/images`.
+Colei o texto transcrito no Language Studio para análise de sentimentos.
+
+
 
 ---
 
